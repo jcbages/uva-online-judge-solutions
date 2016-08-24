@@ -1,0 +1,10 @@
+A -> Done
+B -> Done
+C -> Done
+D -> ?
+E -> Done
+F -> ?
+G -> ?
+H -> ?
+I -> ?
+J -> ?
