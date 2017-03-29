@@ -2,7 +2,7 @@
 
 # UVa Online Judge Solutions
 
-Our solutions to multiple problems in programming competitions.
+:star: :trophy: Solutions to problems from the UVa Online Judge.
 
 ## Problem Set Volumes
 ### Volume 001
