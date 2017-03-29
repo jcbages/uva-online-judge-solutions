@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">:trophy: Solutions to problems from the UVa Online Judge</h4>
+<h4 align="center">:trophy: Solutions to problems from the UVa Online Judge :trophy:</h4>
 
 ### Problem Set Volumes
 #### Volume 001
