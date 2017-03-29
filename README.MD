@@ -2,7 +2,7 @@
 
 # UVa Online Judge Solutions
 
-:trophy: Solutions to problems from the UVa Online Judge.
+:trophy: Solutions to problems from the UVa Online Judge
 
 ## Problem Set Volumes
 ### Volume 001
