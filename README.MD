@@ -1,7 +1,9 @@
 <h1 align="center">
+  <br>
   <a href="https://uva.onlinejudge.org"><img src="https://github.com/jcbages/uva-online-judge-solutions/blob/master/logo.png" alt="UVa Online Judge"></a>
   <br>
   UVa Online Judge Solutions
+  <br>
   <br>
 </h1>
 
