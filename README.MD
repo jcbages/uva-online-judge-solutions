@@ -42,6 +42,7 @@
 #### Volume 007
 - [x] 00725 — Division
 - [x] 00727 — Equation
+- [x] 00787 — Maximum Sub-sequence Product
 
 #### Volume 008
 - [x] 00821 — Page Hopping
