@@ -256,3 +256,11 @@
 - [x] 13125 — Water Troubles
 - [x] 13126 — Wildcards
 - [x] 13127 — Bank Robbery
+- [x] 13184 — Counting Edges and Graphs
+- [x] 13185 — DPA Numbers I
+- [x] 13187 — Felipe and the Sequence
+- [x] 13189 — Humbertov and the Triangular Spiral
+- [x] 13190 — Rockabye Tobby
+- [x] 13191 — Tobby Primes
+- [x] 13193 — Rotations
+- [x] 13194 — DPA Numbers II
