@@ -223,6 +223,7 @@
 - [x] 12946 — Peanoland Contacting Gaussland
 - [x] 12947 — Texting with Grandma
 - [x] 12948 — Interstellar Travel
+- [x] 12949 — Voting Duels
 
 #### Volume 130
 - [x] 13004 — At Most Twice
@@ -246,6 +247,10 @@
 - [x] 13068 — The Weakest Link
 
 #### Volume 131
+- [x] 13107 — Royale With Cheese
+- [x] 13108 — Juanma and the Drinking Fountains
+- [x] 13109 — Elephants
+- [x] 13111 — The Price is Correct
 - [x] 13117 — ACIS, A Contagious vIruS
 - [x] 13118 — Binary Land
 - [x] 13119 — Castaways
@@ -256,6 +261,7 @@
 - [x] 13125 — Water Troubles
 - [x] 13126 — Wildcards
 - [x] 13127 — Bank Robbery
+- [x] 13130 — Cacho
 - [x] 13184 — Counting Edges and Graphs
 - [x] 13185 — DPA Numbers I
 - [x] 13187 — Felipe and the Sequence
