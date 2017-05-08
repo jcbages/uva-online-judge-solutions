@@ -1,4 +1,5 @@
 #include <iostream>
+#include <sstream>
 using namespace std;
 #define LET 30
 #define MAX 105
@@ -8,6 +9,7 @@ char candidate;
 int n, b, sizes[MAX], votes[LET][LET];
 string sequences[MAX];
 bool ans, beatable[LET], visited[LET], G[LET][LET];
+ostringstream ss;
 
 void dfs(int u) {
 	// Mark as visited
@@ -95,6 +97,7 @@ int main() {
 		for (int i = 0; i < n && ans; i++) {
 			ans = i == candidate-'a' || visited[i] || beatable[i];
 		}
-		cout << (ans ? 'Y' : 'N') << '\n';
+		ss << (ans ? 'Y' : 'N') << '\n';
 	}
+	cout << ss.str();
 }
