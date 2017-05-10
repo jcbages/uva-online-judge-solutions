@@ -179,6 +179,9 @@
 - [x] 12324 — Philip J
 - [x] 12356 — Army Buddies
 
+#### Volume 124
+- [x] 12462 — Rectangle
+
 #### Volume 125
 - [x] 12516 — Cinema-cola
 
