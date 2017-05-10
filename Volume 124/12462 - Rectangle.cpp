@@ -31,6 +31,10 @@ void join(int i, int j) {
 bool is_taller(int i, int j) { return h[i] > h[j]; }
 
 int main() {
+	// Fast IO
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+
 	// Init pointers
 	h = (int*) malloc(sizeof(int)*MAX);
 	c = (int*) malloc(sizeof(int)*MAX);
