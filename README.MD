@@ -7,10 +7,10 @@
   <br>
 </h1>
 
+<h4 align="center">:trophy: Solutions to problems from the UVa Online Judge :trophy:</h4>
+
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/RD17/ambar/blob/master/License.txt)
-
-<h4 align="center">:trophy: Solutions to problems from the UVa Online Judge :trophy:</h4>
 
 ### Problem Set Volumes
 #### Volume 001
