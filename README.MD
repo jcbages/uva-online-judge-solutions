@@ -1,11 +1,14 @@
 <h1 align="center">
   <br>
-  <a href="https://uva.onlinejudge.org" target="_blank"><img src="https://github.com/jcbages/uva-online-judge-solutions/blob/master/logo.png" alt="UVa Online Judge"></a>
+  <a href="https://uva.onlinejudge.org" target="_blank"><img src="https://github.com/jcbages/uva-online-judge-solutions/blob/main/logo.png" alt="UVa Online Judge"></a>
   <br>
   UVa Online Judge Solutions
   <br>
   <br>
 </h1>
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/RD17/ambar/blob/master/License.txt)
 
 <h4 align="center">:trophy: Solutions to problems from the UVa Online Judge :trophy:</h4>
 
